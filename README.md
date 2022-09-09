@@ -1,2 +1,1 @@
-# shonebinu
-#NEWBIE HERE!
+# Shone Binu
